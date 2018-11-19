@@ -1,0 +1,1 @@
+myProduct aList = foldl (*) 1 aList
